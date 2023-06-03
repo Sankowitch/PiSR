@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paola/psr/cppp/zadatak1/paola_glavicsankovic.cpp
+iostream
+-
+boost/numeric/ublas/matrix.hpp
+-
+boost/numeric/ublas/vector.hpp
+-
+boost/numeric/ublas/io.hpp
+-
+boost/lexical_cast.hpp
+-
+boost/numeric/ublas/lu.hpp
+-
+cstring
+-
+

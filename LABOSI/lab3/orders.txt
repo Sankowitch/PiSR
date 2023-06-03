@@ -1,0 +1,30 @@
+Xavier
+3
+Coke: 2.0
+Beer: 0.5
+Potato chip: 1
+Lucia
+2
+Beer: 1.0
+Ice cream: 2
+Laurent
+1
+Baguette: 2
+Sanja
+3
+Coke: 1.0
+Potato chip: 2
+Beer: 2.0
+Luigi
+4
+Pasta: 2
+Ice cream: 2
+Coke: 1.0
+Chocolate chip: 1
+Nebojsa
+5
+Beer: 2.0
+Baguette: 1
+Soy milk: 2.0
+Chocolate chip: 1
+Cookies: 2

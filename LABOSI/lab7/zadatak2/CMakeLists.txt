@@ -1,0 +1,5 @@
+project(DisplayImage)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(objectDetectionEx objectDetection.cpp)
+target_link_libraries(objectDetectionEx ${OpenCV_LIBS})

@@ -1,0 +1,3 @@
+/home/paola/psr/cppp/zadatak2/build/CMakeFiles/rebuild_cache.dir
+/home/paola/psr/cppp/zadatak2/build/CMakeFiles/edit_cache.dir
+/home/paola/psr/cppp/zadatak2/build/CMakeFiles/objectDetectionEx.dir
